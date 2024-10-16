@@ -1,0 +1,67 @@
+.logo{
+    width: 36px !important;
+    height: 35px !important;
+}
+
+.fw-6{
+    font-weight: 600;
+}
+
+.fw-7{
+    font-weight: 700;
+}
+nav .active{
+    font-weight: 600;
+}
+
+.site-color{
+    color: #D52A1E !important;
+}
+.color-2{
+    color: #F15910 !important;
+}
+
+.login-modal{
+
+}
+
+.carousel-item{
+    height: 40rem !important;
+}
+
+.carousel-item img{
+    height: 100%;
+}
+
+section{
+    margin-top: 6rem !important;
+}
+.bg-intercalar {
+    background-color: #22282F !important;
+}
+
+.btn-download{
+    background-color: #F15910;
+    border-color: #F15910;
+    padding-inline: 20px;
+    border-radius: 25px !important;
+}
+
+/* Galeria*/
+.img-gallery{
+    width: 100%;
+    height: 100%;
+    border-radius: 15px !important;
+}
+
+dt{
+    height: 255px !important;
+}
+
+.cicular{
+    border-radius: 48%;
+}
+
+.modal-backdrop {
+    --bs-backdrop-zindex: 0 !important;
+}
